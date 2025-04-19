@@ -17,4 +17,4 @@ A feature-rich movie app powered by **GraphQL**, **TMDB API**, **React**, **Tail
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rammah-Mohamed&show_icons=true&theme=radical)
