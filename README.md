@@ -11,7 +11,7 @@
 
 ### 🎬 IMDb Clone  
 A feature-rich movie app powered by **GraphQL**, **TMDB API**, **React**, **Tailwind**, and **MongoDB**  
-→ [Live Demo]([your-demo-link](https://imdb-clone-eta-three.vercel.app/)) | [Code]([repo-link](https://github.com/Rammah-mohamed/IMDB-Clone))
+→ [Live Demo](https://imdb-clone-eta-three.vercel.app/) | [Code](https://github.com/Rammah-mohamed/IMDB-Clone)
 
 ---
 
