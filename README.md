@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Rammah-mohamed/Rammah-Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A self-taught Front-End Developer passionate about building interactive and accessible web applications.  
+💻 Tech Stack: **React**, **TypeScript**, **Tailwind CSS**, **GraphQL**, **MongoDB**, **Vite**  
+🚀 Currently applying to remote Junior Front-End Developer roles  
+📫 How to reach me: Dev.rammah@gmail.com | https://www.linkedin.com/in/rammah-mohamed
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects I'm Proud Of
+
+### 🎬 IMDb Clone  
+A feature-rich movie app powered by **GraphQL**, **TMDB API**, **React**, **Tailwind**, and **MongoDB**  
+→ [Live Demo]([your-demo-link](https://imdb-clone-eta-three.vercel.app/)) | [Code]([repo-link](https://github.com/Rammah-mohamed/IMDB-Clone))
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
