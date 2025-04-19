@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rammah Mohamed 👋
 
 🎯 A self-taught Front-End Developer passionate about building interactive and accessible web applications.  
 💻 Tech Stack: **React**, **TypeScript**, **Tailwind CSS**, **GraphQL**, **MongoDB**, **Vite**  
